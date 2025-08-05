@@ -22,6 +22,9 @@ Um jogo simples feito com HTML, CSS e JavaScript, inspirado no clássico Super M
 
 ## 🎮 Como jogar
 
-1. Clone o repositório:
+1.Acesse o link:
+   https://vinicius-ferrarini.github.io/Mario_Jump_Web
+
+2. Clone o repositório:
    ```bash
    git clone https://github.com/Vinicius-Ferrarini/Mario_Jump_Web.git
